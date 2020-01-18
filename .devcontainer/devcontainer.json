@@ -1,0 +1,13 @@
+{
+  "name": "Ansible",
+  "dockerFile": "Dockerfile",
+
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+
+  "extensions": [
+    "editorconfig.editorconfig",
+    "vscoss.vscode-ansible"
+  ]
+}
