@@ -1,0 +1,4 @@
+- hosts: apservers
+  roles:
+    - common
+    - aptier
