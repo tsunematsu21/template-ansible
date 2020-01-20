@@ -1,0 +1,15 @@
+[webservers]
+wb01.prd.srv
+wb02.prd.srv
+wb03.prd.srv
+wb04.prd.srv
+
+[apservers]
+ap01.prd.srv
+ap02.prd.srv
+ap03.prd.srv
+ap04.prd.srv
+
+[dbservers]
+db01.prd.srv
+db02.prd.srv
